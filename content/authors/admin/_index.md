@@ -18,7 +18,7 @@ organizations:
     url: https://www.ehu.eus/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are focused on intense light-matter interactions in guided geometries.
+#bio: My research interests are focused on intense light-matter interactions in guided geometries.
 
 interests:
 - Nonlinear & Quantum photonics
@@ -77,5 +77,5 @@ user_groups:
   - Head of the EFO-Lab
 ---
 
-I am Ikerbasque Research Fellow and Visiting Professor at the University of the Basque Country (UPV/EHU) in Spain. My main research interests are focused on the science and applications of intense light-matter interaction in confined geometries, in particular in micro- and nano-structured optical fibres.  
+I am Ikerbasque Research Fellow and Visiting Professor at the University of the Basque Country (UPV/EHU) in Spain. My main research interests are focused on the science and applications of intense light-matter interactions in confined geometries, in particular in micro- and nano-structured optical fibres.  
 Outside the scientific world, I am a passionate traveler, musician, sportsman and reader. Partner of a wonderful person and proud father of a wonderful little girl.
