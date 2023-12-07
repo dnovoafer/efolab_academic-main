@@ -101,7 +101,7 @@ sections:
       user_groups:
           - Head of the EFO-Lab
           - Researchers
-          - Grad Students
+          - PhD Students
           - Administration
           - Visitors
           - Alumni

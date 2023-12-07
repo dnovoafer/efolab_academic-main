@@ -7,13 +7,13 @@ type: landing
 sections:
   - block: people
     content:
-      title: Meet the Team
+      title: Meet the EFO Team
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Principal Investigators
+          - Head of the EFO-Lab
           - Researchers
-          - Grad Students
+          - PhD Students
           - Administration
           - Visitors
           - Alumni
