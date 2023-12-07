@@ -155,16 +155,19 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Exotic light sources
+          tag: Sources
+        - name: Multimode nonlinear & quantum optics
+          tag: Multimode
+        - name: Smart photonics
+          tag: AI
+
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
+      columns: '2'
+      view: Showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
   - block: markdown
     content:
       title: Gallery
@@ -204,39 +207,39 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        If you find our research interesting and would like to get in touch, feel free to contact us!
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: david.novoa@ehu.eus
+      phone: +34 94601 414
+      #appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: Escuela de Ingeniería. Plaza Torres Quevedo 1
+        city: Bilbao
+        region: Bizkaia
+        postcode: '48013'
+        country: Spain
+        country_code: ES
+      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '43.26292'
+        longitude: '-2.94940'  
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        #- icon: twitter
+        #  icon_pack: fab
+        #  name: DM Me
+        #  link: 'https://twitter.com/Twitter'
+        #- icon: skype
+        #  icon_pack: fab
+        #  name: Skype Me
+        #  link: 'skype:echo123?call'
+        #- icon: video
+        #  icon_pack: fas
+        #  name: Zoom Me
+        #  link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
