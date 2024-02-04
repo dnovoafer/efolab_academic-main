@@ -22,22 +22,18 @@ bio: My research interests are focused on intense light-matter interactions in g
 
 interests:
 - Nonlinear & Quantum photonics
-- Fibre optics
-- Ultrafast laser science
 - Extreme light-matter interaction
-- Machine learning
+- Quantum state engineering
+- Quantum technologies
 
 education:
   courses:
-    - course: PhD in Physics
-      institution: University of Vigo
-      year: 2011
-    - course: MsC in Photonics and Laser Technologies
-      institution: niversities of Santiago de Compostela, A Coruña and Vigo (Spain)
-      year: 2008
+    - course: MsC in Quantum Science and Technology
+      institution: University of the Basque Country (UPV/EHU) (Spain)
+      year: 2022
     - course: BSc in Physics
-      institution: University of Vigo (Spain)
-      year: 2006
+      institution: University of Alicante (Spain)
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,13 +48,13 @@ social:
   #  link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=gXyFHkgAAAAJ&hl=es&oi=ao
-  #- icon: github
-  #  icon_pack: fab
-  #  link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=ekaiL6kAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/artmenlope
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/david-novoa-251a48239
+    link: https://www.linkedin.com/in/arturo-mena-lópez-b949ba209/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -77,5 +73,4 @@ user_groups:
   - PhD Students
 ---
 
-I am Ikerbasque Research Fellow and Visiting Professor at the University of the Basque Country (UPV/EHU) in Spain. My main research interests are focused on the science and applications of intense light-matter interaction in confined geometries, in particular in micro- and nano-structured optical fibres.  
-Outside the scientific world, I am a passionate traveler, musician, sportsman and reader. Partner of a wonderful person and proud father of a wonderful little girl.
+I am a PhD student in Physics at the University of the Basque Country (UPV/EHU), working in experimental quantum photonics with anti-resonant hollow-core fibres at EFO-Lab. Passionate about quantum technology, my main research is currently focused on tailoring the properties of quantum light.

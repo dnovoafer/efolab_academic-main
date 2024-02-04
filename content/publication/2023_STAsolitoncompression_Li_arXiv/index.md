@@ -15,11 +15,11 @@ author_notes:
 - ""
 - ""
 
-date: "2023-12-01T00:00:00Z"
+date: "2024-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-12-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,7 +28,7 @@ publishDate: "2023-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Preprint"
+publication: "In press"
 publication_short: ""
 
 abstract: We implement variational shortcuts to adiabaticity for optical pulse compression in an active nonlinear Kerr medium with distributed amplification and spatially varying dispersion and nonlinearity. Starting with the hyperbolic secant ansatz, we employ a variational approximation to systematically derive dynamical equations, establishing analytical relationships linking the amplitude, width, and chirp of the pulse. Through the inverse engineering approach, we manipulate the distributed gain/loss, nonlinearity and dispersion profiles to efficiently compress the optical pulse over a reduced distance with high fidelity. In addition, we explore the dynamical stability of the system to illustrate the advantage of our protocol over conventional adiabatic approaches. Finally, we analyze the impact of tailored higher-order dispersion on soliton self-compression and derive physical constraints on the final soliton width for the complementary case of soliton expansion. The broader implications of our findings extend beyond optical systems, encompassing areas such as cold-atom and magnetic systems highlighting the versatility and relevance of our approach in various physical contexts.

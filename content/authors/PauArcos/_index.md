@@ -18,26 +18,21 @@ organizations:
     url: https://www.ehu.eus/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are focused on intense light-matter interactions in guided geometries.
+bio:
 
 interests:
-- Nonlinear & Quantum photonics
-- Fibre optics
-- Ultrafast laser science
-- Extreme light-matter interaction
-- Machine learning
+- Quantum photonics
+- Light-matter interaction
+- Quantum computing
 
 education:
   courses:
-    - course: PhD in Physics
-      institution: University of Vigo
-      year: 2011
-    - course: MsC in Photonics and Laser Technologies
-      institution: niversities of Santiago de Compostela, A Coruña and Vigo (Spain)
-      year: 2008
+    - course: MsC in Quantum Science and Technology
+      institution: University of the Basque Country (UPV/EHU)
+      year: 2023
     - course: BSc in Physics
-      institution: University of Vigo (Spain)
-      year: 2006
+      institution: University of Barcelona (Spain)
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -46,19 +41,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:arturo.mena@ehu.eus'
+    link: 'mailto:parcos002@ikasle.ehu.eus'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=gXyFHkgAAAAJ&hl=es&oi=ao
+  #- icon: google-scholar
+  #  icon_pack: ai
+  #  link: https://scholar.google.com/citations?user=gXyFHkgAAAAJ&hl=es&oi=ao
   #- icon: github
   #  icon_pack: fab
   #  link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/david-novoa-251a48239
+    link: https://www.linkedin.com/in/pau-arcos-calderón-58406827b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -77,5 +72,4 @@ user_groups:
   - PhD Students
 ---
 
-I am Ikerbasque Research Fellow and Visiting Professor at the University of the Basque Country (UPV/EHU) in Spain. My main research interests are focused on the science and applications of intense light-matter interaction in confined geometries, in particular in micro- and nano-structured optical fibres.  
-Outside the scientific world, I am a passionate traveler, musician, sportsman and reader. Partner of a wonderful person and proud father of a wonderful little girl.
+I am a PhD student in Physics at the University of the Basque Country (UPV/EHU) in Spain. My area of research consists in compact UV sources with hollow-core fibres, which clearly says that I really like light-matter interaction and playing with lasers (in a good sense). Other interests that qualify me, must be the passion for nature and reading.

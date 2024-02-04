@@ -100,12 +100,12 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Head of the EFO-Lab
-          - Researchers
+          - Postdoctoral Researchers
           - PhD Students
           - Administration
           - Visitors
           - Alumni
-      sort_by: Params.last_name
+      sort_by: Params.first_name
       sort_ascending: true
     design:
       show_interests: false
@@ -210,7 +210,7 @@ sections:
         If you find our research interesting and would like to get in touch, feel free to contact us!
       # Contact (add or remove contact options as necessary)
       email: david.novoa@ehu.eus
-      phone: +34 94601 414
+      phone: +34 94601 4114
       #appointment_url: 'https://calendly.com'
       address:
         street: Escuela de Ingeniería. Plaza Torres Quevedo 1
