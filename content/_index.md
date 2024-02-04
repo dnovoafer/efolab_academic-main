@@ -209,7 +209,7 @@ sections:
       text: |-
         If you find our research interesting and would like to get in touch, feel free to contact us!
       # Contact (add or remove contact options as necessary)
-      email: david.novoa@ehu.eus
+      # email: david.novoa@ehu.eus
       phone: +34 94601 4114
       #appointment_url: 'https://calendly.com'
       address:
