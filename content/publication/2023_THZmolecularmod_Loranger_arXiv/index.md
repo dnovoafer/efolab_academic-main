@@ -16,7 +16,7 @@ author_notes:
 - ""
 
 date: "2024-01-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1364/OE.515323"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-01T00:00:00Z"
@@ -29,7 +29,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In press"
-publication_short: ""
+publication_short: "*Optics Express* **32**, 7622 (2024)"
 
 abstract: We study the generation of narrowband terahertz (THz) pulses by stimulated Raman scattering and molecular modulation in hydrogen-filled hybrid hollow-core fibers. Using a judicious combination of materials and transverse structures, this waveguide design enables simultaneous confinement of optical and THz signals with reasonably low attenuation, as well as high nonlinear overlap. The THz pulses are then generated as the second Stokes band of a ns-long near-infrared pump pulse, aided by Raman coherence waves excited in the gaseous core by the beat-note created by the pump and its first Stokes band. Optimization of the fiber characteristics facilitates phase matching between the corresponding transitions and coherence waves while avoiding coherent gain suppression, resulting in potential optical-to-THz conversion efficiencies up to 60%, as confirmed by rigorous numerical modelling under ideal zero-loss conditions. When the current optical material constraints are considered, however, the attainable efficiencies relax to 0.2%, a still competitive value compared to other systems. The approach is in principle power and energy scalable, as well as tunable in the 1 – 10 THz range without any spectral gaps, thereby opening new pathways to the development of fiber-based THz sources complementary to other mature technologies such as quantum cascade lasers.
 
