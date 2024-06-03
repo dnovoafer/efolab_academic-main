@@ -80,7 +80,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Researchers
+
 ---
 
 I am a post-doctoral fellow at the Basque Center for Applied Mathematics (BCAM) and visitor at the University of the Basque Country (UPV/EHU) since June 2023. Experienced in ultrafast nonlinear phenomena in multimode fibers and ultrafast ablation of metals. I am currently working on the confinement of quantum light in anti-resonant fibers. I am passionate about world exploration, cinema and sports, and I am also addicted to playing sports like running, cycling and martial arts.
