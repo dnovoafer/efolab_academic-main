@@ -33,7 +33,7 @@ education:
       institution: University of Vigo
       year: 2011
     - course: MsC in Photonics and Laser Technologies
-      institution: niversities of Santiago de Compostela, A Coruña and Vigo (Spain)
+      institution: Universities of Santiago de Compostela, A Coruña and Vigo (Spain)
       year: 2008
     - course: BSc in Physics
       institution: University of Vigo (Spain)
