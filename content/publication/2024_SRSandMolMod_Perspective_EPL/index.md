@@ -32,7 +32,7 @@ publishDate: "2024-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In press"
+publication: "*EPL* **147**, 45001 (2024)"
 publication_short: ""
 
 abstract: Raman scattering is the inelastic process where photons bounce off molecules, losing energy and becoming red-shifted. This weak effect is unique to each molecular species, making it an essential tool in e.g. spectroscopy and label-free microscopy. The invention of the laser enabled a regime of stimulated Raman scattering (SRS), where the efficiency is greatly increased by inducing coherent molecular oscillations. However, this phenomenon required high intensities due to the limited interaction volumes, and this limitation was overcome by the emergence of anti-resonant fibres (ARFs) guiding light in a small hollow channel over long distances. Based on their unique properties, this Perspective reviews the transformative impact of ARFs on modern SRS-based applications ranging from development of light sources and convertors for spectroscopy and materials science, to quantum technologies for the future quantum networks, providing insights into future trends and the expanding horizons of the field.
