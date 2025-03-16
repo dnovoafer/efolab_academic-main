@@ -1,10 +1,10 @@
 ---
-title: Invited talk at QNS
+title: Invited talk at USTS 2024
 
-event: III International Workshop on Quantum Nonstationary Systems
-event_url: http://www.cif.unb.br/qns3
+event: Ultrafast Science and Technology Spain – USTS 2024
+event_url: https://esdeveniments.upc.edu/117674/detail/ultrafast-science-and-technology-spain-usts-2024-6-8-november-2024.html
 
-location: Brasilia (Brazil)
+location: Sitges (Spain)
 address:
   street: ""
   city: ""
@@ -12,17 +12,17 @@ address:
   postcode: ''
   country:
 
-summary: David has been invited to talk about correlation-preserving quantum frequency conversion 
+summary: David has been invited to talk about the critical role of ultrafast shock waves in mid-infrared pulse self-compression in hollow-core fibres 
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-08-26T09:00:00Z"
-date_end: "2024-08-30T15:00:00Z"
+date: "2024-11-06T09:00:00Z"
+date_end: "2024-11-08T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2024-01-01T00:00:00Z"
+publishDate: "2025-01-01T00:00:00Z"
 
 authors: [admin]
 tags: []

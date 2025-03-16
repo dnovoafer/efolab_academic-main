@@ -3,7 +3,7 @@ title: Outreach talk during "Pint of Science" 🍺⚛🔬
 subtitle: I gave a talk on the role of light in modern quantum technologies
 
 # Summary for listings and search engines
-summary: The Team delivered many talks over the last year
+summary: Science at the bar!
 
 # Link this post with a project
 projects: []
