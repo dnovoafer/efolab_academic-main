@@ -33,15 +33,7 @@ publication_types: ["2"]
 publication: "*APL Photonics* **10**, 041302 (2025)"
 publication_short: ""
 
-abstract: Quantum transduction is essential for the future hybrid quantum networks, connecting devices across different spectral ranges. In this regard,
-molecular modulation in hollow-core fibers has proven to be exceptional for efficient and tunable frequency conversion of arbitrary light fields
-down to the single-photon limit. However, insights into this conversion method for quantum light have remained elusive beyond standard
-semi-classical models. In this Letter, we employ a quantum Hamiltonian framework to characterize the behavior of entanglement during
-molecular modulation while describing the quantum dynamics of both molecules and photons in agreement with recent experiments. In
-particular, apart from obtaining analytical expressions for the final opto-molecular states, our model predicts a close correlation between
-the evolution of the average photon numbers and the transfer of entanglement between the interacting parties. These results will contribute
-to the development of new fiber-based strategies to tackle the challenges associated with the upcoming generation of lightwave quantum
-technologies.
+abstract: Quantum transduction is essential for the future hybrid quantum networks, connecting devices across different spectral ranges. In this regard, molecular modulation in hollow-core fibers has proven to be exceptional for efficient and tunable frequency conversion of arbitrary light fields down to the single-photon limit. However, insights into this conversion method for quantum light have remained elusive beyond standard semi-classical models. In this Letter, we employ a quantum Hamiltonian framework to characterize the behavior of entanglement during molecular modulation while describing the quantum dynamics of both molecules and photons in agreement with recent experiments. In particular, apart from obtaining analytical expressions for the final opto-molecular states, our model predicts a close correlation between the evolution of the average photon numbers and the transfer of entanglement between the interacting parties. These results will contribute to the development of new fiber-based strategies to tackle the challenges associated with the upcoming generation of lightwave quantum technologies.
 
 # Summary. An optional shortened abstract.
 summary: New theoretical framework to describe quantum nonlinear dynamics in hollow-core fibres! 

@@ -19,7 +19,7 @@ author_notes:
 - ""
 
 date: "2025-02-01T00:00:00Z"
-doi: "https://ieeexplore.ieee.org/document/11051243"
+doi: "https://doi.org/10.1109/JLT.2025.3583511"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-02-01T00:00:00Z"
