@@ -31,7 +31,7 @@ publishDate: "2025-02-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*J. Lighwave Tech.* **43**, 8406 (2025)"
+publication: "*J. Lightwave Tech.* **43**, 8406 (2025)"
 publication_short: ""
 
 abstract: Optical systems are scalable under low-intensity illumination since their governing equations are linearly dependent of the optical signal strength. Nonetheless, in high-intensity regimes, the induced polarization becomes nonlinear, rendering the simple scalability of the previous systems invalid. Despite this, canonical nonlinear phenomena such as filamentation and high-harmonic generation in free space have recently been demonstrated to be scalable. Here we will discuss the extension of the scale-invariance paradigm to stimulated Raman scattering and molecular modulation in hollow anti-resonant fibers filled with Raman-active gases. We have found that the complex in-fiber dynamics can be accurately reproduced under very different conditions by keeping the so-called gain reduction factor, that accounts for the coupling of the interacting fields, as well as the dephasing time unaltered. Such scaling strategy enables access to equivalent nonlinear propagation scenarios without sacrificing performance, laying the foundations for the design of nonlinear devices operating in exotic frequencies, like the ultraviolet, or quantum frequency convertors of non-classical light.
