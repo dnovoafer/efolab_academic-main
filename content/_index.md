@@ -52,12 +52,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Ikerbasque Research Associate Professor and Distinguished Researcher
+          company: University of the Basque Country (EHU)
+          company_url: ''
+          location: Spain
+          date_start: '2026-04-01'
+          date_end: ''
+          description: ''
         - title: Ikerbasque Research Fellow and Visiting Professor
           company: University of the Basque Country (UPV/EHU)
           company_url: ''
           location: Spain
           date_start: '2021-04-01'
-          date_end: ''
+          date_end: '2026-03-31'
           description: ''
         - title: W2 Associate Research Professor
           company: Max Planck Institute for the Science of Light
