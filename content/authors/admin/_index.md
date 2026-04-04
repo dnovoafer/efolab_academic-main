@@ -10,7 +10,7 @@ last_name: Novoa
 superuser: true
 
 # Role/position
-role: Ikerbasque Research Fellow & Visiting Professor
+role: Ikerbasque Research Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -77,5 +77,5 @@ user_groups:
   - Head of the EFO-Lab
 ---
 
-I am Ikerbasque Research Fellow and Visiting Professor at the University of the Basque Country (UPV/EHU) in Spain. My main research interests are focused on the science and applications of intense light-matter interactions in confined geometries, in particular in micro- and nano-structured optical fibres.  
+I am Ikerbasque Research Associate Professor and Distinguished Researcher at the University of the Basque Country (EHU) in Spain. My main research interests are focused on the science and applications of intense light-matter interactions in confined geometries, in particular in micro- and nano-structured optical fibres.  
 Outside the scientific world, I am a passionate traveler, musician, sportsman and reader. Partner of a wonderful person and proud father of a wonderful little girl.
