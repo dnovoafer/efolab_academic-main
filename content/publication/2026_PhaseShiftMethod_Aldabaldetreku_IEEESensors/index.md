@@ -30,7 +30,7 @@ publishDate: "2026-03-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Sensors*, In press (2026)"
+publication: "*IEEE Sensors* **26**, 11758 (2026)"
 publication_short: ""
 
 abstract: This work presents a dual-mode optical sensing system that integrates the phase shift method into an existing intensity-modulated optical fiber displacement sensor to extend the measurement range for blade tip clearance applications from 5mmto 30 mm. The proposed enhancement requires only minimal modifications to the original probe configuration, including high-frequency light modulation at 100 MHz and insertion of a fiber optic coupler. These adjustments enable simultaneous, interference-free operation of the phase shift method and the intensity modulation technique within a single platform for blade-distance detection. The system is designed to accommodate targets with varying reflectivity without recalibration and to automatically reject weak signals, improving reliability and simplifying integration. Dynamic tests validate the concurrent operation and complementary behavior of both methods:the intensity modulation technique provides high sensitivity at short ranges, whereas the phase shift method ensures robust performance over extended distances. Experimental results confirm the feasibility of an extended-range, dual-mode optical sensing approach, offering a promising solution for next-generation aero-engine diagnostics where precision, adaptability, and robustness are critical.
