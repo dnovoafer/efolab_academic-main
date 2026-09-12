@@ -19,7 +19,7 @@ author_notes:
 - ""
 
 date: "2026-06-01T00:00:00Z"
-#doi: "https://doi.org/10.1109/JSEN.2026.3668044"
+doi: "https://doi.org/10.1002/lpor.71825"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-06-01T00:00:00Z"
@@ -31,7 +31,7 @@ publishDate: "2026-06-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv:2602.00538 (2026) "
+publication: "*Laser & Photonics Reviews*, e71825 (2026) "
 publication_short: ""
 
 abstract: Gas-filled hollow-core fibers (HCFs) have emerged as a versatile platform for high-power nonlinear optics, enabling phenomena from ultrafast pulse compression to broadband frequency generation. However, the lack of robust polarization control has remained a critical obstacle to the deployment of gas-based fiber sources. Here, we overcome this bottleneck by demonstrating the generation of highly-polarized Stokes light via stimulated Raman scattering (SRS) in a nitrogen-filled polarization-maintaining anti-resonant hollow-core fiber (PM-HCF). By exploiting the strong structural birefringence of the fiber, the Raman interaction becomes polarization-decoupled along the principal birefringence axes, leading to threshold-selective Raman amplification and an intrinsic polarization purification mechanism. As a result, the vibrational Raman Stokes emission exhibits a polarization extinction ratio (PER) of 35 dB, even when the incident pump PER is as low as ~2 dB. Through analytical theory and numerical modeling, we validate the underlying polarization-selective Raman dynamics and identify the fiber platform as the dominant factor governing the observed PER saturation. We further show that this high polarization purity and high conversion efficiency is maintained under tight bending conditions with radii down to 5 cm, in stark contrast to conventional non-PM-HCF. These results establish PM-HCFs as a robust and scalable architecture for generating polarization-stable, frequency-shifted light, and indicate that polarization may be treated as an actively engineerable degree of freedom in gas photonics, paving the way toward deployment-ready gas-based fiber sources for precision metrology, quantum communication, and coherent sensing.
@@ -45,9 +45,9 @@ tags: [Sources]
 featured: false
 
 # Custom links (uncomment lines below)
-#links:
-#- name: "arXiv"
-#   url: 'http://arxiv.org/pdf/2602.00538'
+links:
+ - name: "arXiv"
+   url: 'https://arxiv.org/pdf/2602.00538'
 
 url_pdf: ''
 url_code: ''
