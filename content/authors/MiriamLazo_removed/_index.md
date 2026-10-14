@@ -69,7 +69,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+
 ---
 
 I am a PhD student in Physics at the University of the Basque Country. I am currently working in quantum optics, focusing on modeling light-matter interaction at the quantum level inside anti-resonant hollow-core fibers, and aiming to use such models to design protocols in quantum communications. In addition to my love for science, there is also room in my heart for books and art.
