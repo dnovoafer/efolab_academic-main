@@ -1,5 +1,5 @@
 ---
-title: "Preservation of photon statistics upon selective molecular modulation in gas-filled hollow-core fiber"
+title: "Preservation of photon statistics upon selective molecular modulation in hollow-core fibers"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
